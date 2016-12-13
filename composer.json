@@ -1,0 +1,19 @@
+{
+    "name": "websemantics/pyrocms-skin",
+    "description": "The official admin theme for PyroCMS, with a twist",
+    "type": "pyrocms-theme-skin",
+    "keywords": [
+        "websemantics",
+        "pyrocms",
+        "theme",
+        "skin"
+    ],
+    "require": {
+        "websemantics/pyrocms-theme": "*"
+    },
+    "autoload": {
+        "psr-4": {
+          "Websemantics\\PyrocmsSkin\\": "src/"
+        }
+    }
+}
