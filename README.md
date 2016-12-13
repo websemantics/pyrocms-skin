@@ -16,7 +16,8 @@
 ```
 > The official admin theme for PyroCMS, with a twist
 
-![](https://github.com/websemantics/pyrocms-skin/raw/master/resources/img/pyrocms.png)
+| ![](https://github.com/websemantics/pyrocms-skin/raw/master/resources/img/pyrocms.png) |
+|---|
 
 ## Install
 
