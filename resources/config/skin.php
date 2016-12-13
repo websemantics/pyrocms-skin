@@ -20,6 +20,6 @@ return [
   | Screenshot (1920w × 1080h) of Admin using the skin.
   |
   */
-  'preview' => __DIR__ . '/../img/preview.png'
+  'preview' => __DIR__ . '/../img/pyrocms.png'
 
 ];

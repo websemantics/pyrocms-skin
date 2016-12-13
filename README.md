@@ -16,6 +16,8 @@
 ```
 > The official admin theme for PyroCMS, with a twist
 
+![](https://github.com/websemantics/github-skin/raw/master/resources/img/pyrocms.png)
+
 ## Install
 
 1- Use `composer ` to install,
